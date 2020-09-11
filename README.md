@@ -1,7 +1,7 @@
 Hoi !!
 
 <p>Raj here a.k.a XenoPhilius,</p>
-<p>A Software Engineer and Solutions Architect</p>
+<b>A Software Engineer, Block-Chain Developer and Architect, and Solutions Architect</b>
 
 <p>Reach me at: <b>raj.r.dhanani@protonmail.com</b></p>
 
