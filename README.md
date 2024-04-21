@@ -1,9 +1,10 @@
-Hoi !!
+Hoi Welcome to <b>Raj Dhanani's GH</b>!
 
-<p>Raj here a.k.a XenoPhilius,</p>
-<b>A Software Engineer, Software Developer and Architect</b>
+<b>Associate Engineering Lead at Codal Inc</b>
 
-<p>Reach out to me on linkedin: <b>https://www.linkedin.com/in/rdhanani/</b></p>
+Software & Cloud Engineer and Architect
+
+Reach out to me on linkedin: [Link](https://www.linkedin.com/in/rdhanani/)
 
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=raj-xe&count_private=true&show_icons=true" height="150px"> -->
